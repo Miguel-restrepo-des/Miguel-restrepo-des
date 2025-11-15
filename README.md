@@ -17,3 +17,32 @@
 </p>
 
 ---
+
+## 📈 Mis estadísticas en GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Miguel-restrepo-des&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-restrepo-des&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Objetivos a corto plazo
+- Mejorar mis habilidades en **HTML, CSS y diseño web**.  
+- Profundizar en **JavaScript y Python**.  
+- Crear mis **primeros proyectos completos**, tanto frontend como backend.  
+- Construir un portafolio atractivo y profesional.
+
+---
+
+## 📫 Puedes encontrarme en
+<p align="center">
+  <a href="https://github.com/Miguel-restrepo-des">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+### ✨ Gracias por visitar mi perfil  
+> *Cada día construyendo algo mejor.*

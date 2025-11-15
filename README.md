@@ -2,7 +2,7 @@
       BANNER ANIMADO
 ======================= -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=7F3DFF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hola!+Soy+Miguel+Restrepo;Desarrollador+Full+Stack+en+Formaci%C3%B3n;Aprendiendo+Java,+Backend+y+Dise%C3%B1o;Siempre+creciendo+y+mejorando!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=7F3DFF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hola!+Soy+Miguel+Restrepo;Desarrollador+Full+Stack+en+Formaci%C3%B3n;Aprendiendo+Java,+PHP+y+Backend;Siempre+creciendo+y+mejorando!">
 </div>
 
 ---
@@ -15,9 +15,9 @@ Soy **Miguel Restrepo**, un desarrollador que está comenzando su camino en el m
 Me apasionan dos áreas:
 
 🎨 **Diseño** — interfaces limpias y modernas  
-⚙️ **Backend** — lógica, arquitectura y funcionalidades reales  
+⚙️ **Backend** — lógica, funcionalidades y resolver problemas reales  
 
-Mi meta es convertirme en un **Desarrollador Full Stack**, dominando tanto el frontend como el backend.
+Mi meta es convertirme en un **Desarrollador Full Stack**, combinando frontend y backend con estilo profesional.
 
 ---
 
@@ -39,19 +39,38 @@ Mi meta es convertirme en un **Desarrollador Full Stack**, dominando tanto el fr
 ======================= -->
 ## 🛠️ Tecnologías que estoy aprendiendo
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,python,git,github,nodejs,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,java,php,python,git,github,nodejs,figma,vscode" />
 </p>
 
 ---
 
-## ☕ Lo que estoy aprendiendo de Java (bases sólidas)
+<!-- =======================
+      BASES DE JAVA
+======================= -->
+## ☕ Bases de Java que estoy aprendiendo
 - Sintaxis básica  
-- Variables y tipos de datos  
+- Variables y tipos  
 - Condicionales y bucles  
 - Programación Orientada a Objetos (POO)  
-- Clases, objetos, métodos y herencia  
-- Manejo de excepciones  
-- Proyectos simples por consola  
+- Clases, objetos, métodos  
+- Herencia y polimorfismo  
+- Manejo de errores  
+- Mini proyectos de consola  
+
+---
+
+<!-- =======================
+      BASES DE PHP
+======================= -->
+## 🐘 Bases de PHP que estoy aprendiendo
+- Sintaxis básica de PHP  
+- Variables, operadores y tipos  
+- Estructuras de control  
+- Funciones  
+- Formularios HTML + PHP  
+- Manejo de datos por GET y POST  
+- Conexión básica a MySQL  
+- Mini CRUD simple  
 
 ---
 
@@ -59,28 +78,36 @@ Mi meta es convertirme en un **Desarrollador Full Stack**, dominando tanto el fr
       PROYECTOS DESTACADOS
 ======================= -->
 ## 🚧 Proyectos (en construcción)
-> Aquí aparecerán tus primeros proyectos conforme los vayas creando.
+> Estos proyectos los irás creando mientras avanzas.
 
-### ☕ **Mini Proyectos con Java (Consola)**
-- Calculadora básica  
-- Sistema simple de usuarios  
-- Programa de registro con archivos  
-- **Repositorio:** *(cuando lo crees)*
+### ☕ **Mini Proyectos en Java (Consola)**
+- Calculadora  
+- Registro de usuarios  
+- Sistema simple de notas  
+- **Repositorio:** *(pendiente)*
+
+---
+
+### 🐘 **Mini CRUD con PHP + MySQL**
+- Crear, leer, actualizar y eliminar datos  
+- Conexión básica a BD  
+- Ideal para iniciar el backend  
+- **Repositorio:** *(pendiente)*
 
 ---
 
 ### 🌐 **Landing Page de Portafolio**
-- Diseño moderno usando HTML + CSS  
-- Paleta neon profesional  
-- **Repositorio:** *(cuando lo crees)*
+- Hecha con HTML + CSS  
+- Estilo moderno (neon + minimalista)  
+- **Repositorio:** *(pendiente)*
 
 ---
 
-### ⚙️ **Backend Inicial con Java + Spring Boot (futuro cercano)**  
-- Endpoints simples REST  
-- CRUD básico  
+### ⚙️ **Backend con Java + Spring Boot (futuro cercano)**
+- Endpoints REST  
+- CRUD avanzado  
 - Arquitectura MVC  
-- **Repositorio:** *(cuando lo crees)*
+- **Repositorio:** *(pendiente)*
 
 ---
 
@@ -100,11 +127,12 @@ Mi meta es convertirme en un **Desarrollador Full Stack**, dominando tanto el fr
       OBJETIVOS
 ======================= -->
 ## 🎯 Objetivos a corto plazo
-- Dominar las bases de **Java** y la **Programación Orientada a Objetos**  
-- Crear mis primeros proyectos en **Java + Spring Boot**  
-- Mejorar mis habilidades en **HTML, CSS y diseño web**  
-- Empezar con **JavaScript** para usar frameworks frontend  
-- Convertirme en **Full Stack Developer**  
+- Dominar las bases de **Java**  
+- Aprender **PHP + MySQL** para backend  
+- Crear mis primeros **CRUDs**  
+- Mejorar en **HTML y CSS**  
+- Aprender **JavaScript** más adelante para frontend  
+- Convertirme en **Full Stack Developer**
 
 ---
 

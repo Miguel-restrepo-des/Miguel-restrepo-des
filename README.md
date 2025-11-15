@@ -2,7 +2,7 @@
       BANNER ANIMADO
 ======================= -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=7F3DFF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hola!+Soy+Miguel+Restrepo;Desarrollador+en+Formaci%C3%B3n;Apasionado+por+el+Dise%C3%B1o+%26+el+Backend;Siempre+aprendiendo+y+creciendo!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=7F3DFF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hola!+Soy+Miguel+Restrepo;Desarrollador+Full+Stack+en+Formaci%C3%B3n;Aprendiendo+Java,+Backend+y+Dise%C3%B1o;Siempre+creciendo+y+mejorando!">
 </div>
 
 ---
@@ -14,10 +14,10 @@
 Soy **Miguel Restrepo**, un desarrollador que está comenzando su camino en el mundo del software.  
 Me apasionan dos áreas:
 
-🎨 **Diseño** — interfaces limpias, modernas y con estilo  
-⚙️ **Backend** — lógica, funcionalidad y solucionar problemas reales  
+🎨 **Diseño** — interfaces limpias y modernas  
+⚙️ **Backend** — lógica, arquitectura y funcionalidades reales  
 
-Mi objetivo: convertirme en un **Full Stack Developer** que combine creatividad + solidez técnica.
+Mi meta es convertirme en un **Desarrollador Full Stack**, dominando tanto el frontend como el backend.
 
 ---
 
@@ -39,8 +39,19 @@ Mi objetivo: convertirme en un **Full Stack Developer** que combine creatividad 
 ======================= -->
 ## 🛠️ Tecnologías que estoy aprendiendo
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,java,python,git,github,nodejs,figma,vscode" />
 </p>
+
+---
+
+## ☕ Lo que estoy aprendiendo de Java (bases sólidas)
+- Sintaxis básica  
+- Variables y tipos de datos  
+- Condicionales y bucles  
+- Programación Orientada a Objetos (POO)  
+- Clases, objetos, métodos y herencia  
+- Manejo de excepciones  
+- Proyectos simples por consola  
 
 ---
 
@@ -48,26 +59,27 @@ Mi objetivo: convertirme en un **Full Stack Developer** que combine creatividad 
       PROYECTOS DESTACADOS
 ======================= -->
 ## 🚧 Proyectos (en construcción)
-> Aquí aparecerán tus primeros proyectos cuando los vayas creando.  
-> Puedes agregarlos manualmente así:
+> Aquí aparecerán tus primeros proyectos conforme los vayas creando.
+
+### ☕ **Mini Proyectos con Java (Consola)**
+- Calculadora básica  
+- Sistema simple de usuarios  
+- Programa de registro con archivos  
+- **Repositorio:** *(cuando lo crees)*
+
+---
 
 ### 🌐 **Landing Page de Portafolio**
 - Diseño moderno usando HTML + CSS  
-- Enfoque en tipografía limpia y colores neon  
+- Paleta neon profesional  
 - **Repositorio:** *(cuando lo crees)*
 
 ---
 
-### 🧠 **Prácticas de Lógica con JavaScript**
-- Algoritmos básicos  
-- Funciones, bucles, arrays  
-- **Repositorio:** *(cuando lo crees)*
-
----
-
-### ⚙️ **Mini API con Python (Flask/FastAPI)**  
-- Tu primer acercamiento al backend real  
-- Endpoints simples  
+### ⚙️ **Backend Inicial con Java + Spring Boot (futuro cercano)**  
+- Endpoints simples REST  
+- CRUD básico  
+- Arquitectura MVC  
 - **Repositorio:** *(cuando lo crees)*
 
 ---
@@ -88,10 +100,11 @@ Mi objetivo: convertirme en un **Full Stack Developer** que combine creatividad 
       OBJETIVOS
 ======================= -->
 ## 🎯 Objetivos a corto plazo
-- Terminar mis **primeros proyectos completos**  
-- Mejorar mi capacidad para diseñar sitios web atractivos  
-- Aprender más de **JavaScript, Python y Node.js**  
-- Crear un **portafolio profesional**
+- Dominar las bases de **Java** y la **Programación Orientada a Objetos**  
+- Crear mis primeros proyectos en **Java + Spring Boot**  
+- Mejorar mis habilidades en **HTML, CSS y diseño web**  
+- Empezar con **JavaScript** para usar frameworks frontend  
+- Convertirme en **Full Stack Developer**  
 
 ---
 
@@ -113,6 +126,6 @@ Mi objetivo: convertirme en un **Full Stack Developer** que combine creatividad 
 <p align="center">
   ✨ Gracias por visitar mi perfil  
   <br/>
-  <em>Sigo aprendiendo, creando y mejorando cada día.</em>
+  <em>Construyendo mi camino hacia ser Full Stack Developer.</em>
 </p>
 

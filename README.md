@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">👋 Hola, soy <strong>Tu Nombre</strong></h1>
+<p align="center">Desarrollador Full-Stack | Apasionado por la tecnología y la automatización</p>
 
-<!--
-**Miguel-restrepo-des/Miguel-restrepo-des** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Sobre mí
+- 💼 Actualmente trabajo en **[tu empresa]**
+- 🌱 Aprendiendo **[tecnología actual]**
+- 🤝 Abierto a colaborar en proyectos **Open Source**
+- 🧠 Interesado en **IA, DevOps, Web y Arquitectura de Software**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías
+**Frontend:** React · Next.js · HTML · CSS · Tailwind  
+**Backend:** Node.js · Express · Python · Django  
+**DevOps:** Docker · GitHub Actions · Linux  
+**Bases de datos:** PostgreSQL · MySQL · MongoDB
+
+---
+
+### 📫 Contáctame
+- ✉️ Email: **tucorreo@example.com**
+- 🔗 LinkedIn: **[tu-linkedin]**
